@@ -19,4 +19,13 @@ https://github.com/bitsacm/Slack-Stock-DAG/blob/master/competitive.md
 (iv) Lots and Lots of Courses (On DSA and other things too)
 https://mega.nz/folder/F5ZzRSbL#chADa919Pfza9f7x1WIRZA
 
+3)PYTHON AND DJANGO PLAYLIST SUGGESTED BY ARYAVEER
+
+(i)PYTHON - https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+(ii)DJANGO - https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
+4)HEMESH SUGGESTED APP DEV UDACITY
+(i)
+
 
