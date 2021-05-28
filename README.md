@@ -28,4 +28,9 @@ https://mega.nz/folder/F5ZzRSbL#chADa919Pfza9f7x1WIRZA
 4)HEMESH SUGGESTED APP DEV UDACITY
 (i)
 
+5)SONE SITES TO FIND RESOURCES
+(i)https://cp-algorithms.com/
+(ii)https://www.cplusplus.com/-for STL cpp
+(iii)
 
+(6)DOWNLOADS FOR OLDER OS VERSIONS OF TOOLS (APPLE) 
