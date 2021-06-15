@@ -34,3 +34,4 @@ https://mega.nz/folder/F5ZzRSbL#chADa919Pfza9f7x1WIRZA
 (iii)
 
 (6)DOWNLOADS FOR OLDER OS VERSIONS OF TOOLS (APPLE) 
+(7)SOME COMMONLY USED STL ALGORITHMS (COMPETETIVE) - https://www.geeksforgeeks.org/c-magicians-stl-algorithms/ 
