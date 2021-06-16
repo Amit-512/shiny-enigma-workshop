@@ -34,4 +34,25 @@ https://mega.nz/folder/F5ZzRSbL#chADa919Pfza9f7x1WIRZA
 (iii)
 
 (6)DOWNLOADS FOR OLDER OS VERSIONS OF TOOLS (APPLE) 
+
 (7)SOME COMMONLY USED STL ALGORITHMS (COMPETETIVE) - https://www.geeksforgeeks.org/c-magicians-stl-algorithms/ 
+
+(8)road map for what to do - https://www.youtube.com/watch?v=xxgsHDQ0eJg --> https://www.youtube.com/watch?v=TN6iroKMu-I
+
+(9)contests of high level -- 
+
+(I) ACM ICPC
+
+(II)HASH CODE 
+
+(III)CODE JAM 
+
+(IV)KICK START
+
+DATA SCIENCE RESOURCES --
+
+(i) https://www.edx.org/course/data-science-r-basics
+
+(ii)https://www.kaggle.com/
+
+                              
