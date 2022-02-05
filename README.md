@@ -55,4 +55,26 @@ DATA SCIENCE RESOURCES --
 
 (ii)https://www.kaggle.com/
 
+
+// IMPORTANT TOPICS OF CP
+
+Complexity analysis
+
+Sorting (2-3 algorithms)
+
+Bit manipulation
+
+Binary search
+
+BINARY EXPONENTIATION
+
+PREFIX SUM
+
+GREEDY
+
+2 POINTER
+
+DEVIDE AND CONQUER
+
+
                               
