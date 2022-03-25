@@ -76,5 +76,11 @@ GREEDY
 
 DEVIDE AND CONQUER
 
+Interview
+
+1. https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit -- Striver_79
+
+2. Leetcode
+
 
                               
