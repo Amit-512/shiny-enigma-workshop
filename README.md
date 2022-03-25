@@ -80,7 +80,7 @@ Interview
 
 1. https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit -- Striver_79
 
-2. Leetcode
+2. Leetcode -- Very imp for binary tree,binary search tree and linklist
 
 
                               
